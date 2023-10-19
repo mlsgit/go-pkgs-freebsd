@@ -4,3 +4,6 @@ I am interested in using go on FreeBSD-based systems and their specific APIs. Th
 
 Feel free to open a PR for contributing. 
 
+# Working with Jails
+
+- https://github.com/briandowns/jail has a go wrapper for the Jail API.
